@@ -68,7 +68,7 @@ Diseño UI/UX Futurista: Cada página cuenta con una paleta de colores inmersiva
 
 Optimización de Código: Los motores en JavaScript se ejecutan de manera nativa (Vanilla JS) optimizando el rendimiento del navegador al evitar el uso redundante de colecciones pesadas u objetos globales.
 🔗 Enlaces del Proyecto
-Código Fuente: https://github.com/ignaciocortez446/tarea-web-porgramacion
+Código Fuente: https://github.com/ignaciocortez446/tarea-de-programacion-web-113
 
 Despliegue en Vivo: https://ignaciocortez446.github.io/tarea-web-porgramacion/
 
